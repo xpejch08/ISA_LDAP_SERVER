@@ -1,0 +1,141 @@
+# extended LDIF
+#
+# LDAPv3
+# base <> (default) with scope subtree
+# filter: (&(!(mail=*a*))(mail=*eny*))
+# requesting: ALL
+#
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 1
+stepan@stepan-Lenovo-Legion-5-15ARH05H:~ $ ldapsearch -x -H ldap://localhost -x "(&(!(mail=*a*))(mail=*en*))"
+# extended LDIF
+#
+# LDAPv3
+# base <> (default) with scope subtree
+# filter: (&(!(mail=*a*))(mail=*en*))
+# requesting: ALL
+#
+
+# xbenci01
+dn: uid=xbenci01
+cn: Bencik Simon
+uid: xbenci01
+mail: xbenci01@stud.fit.vutbr.cz
+
+# xbencs00
+dn: uid=xbencs00
+cn: Bencsik Sebastian
+uid: xbencs00
+mail: xbencs00@stud.fit.vutbr.cz
+
+# xbenes29
+dn: uid=xbenes29
+cn: Benes Eduard
+uid: xbenes29
+mail: xbenes29@stud.fit.vutbr.cz
+
+# xbenko12
+dn: uid=xbenko12
+cn: Benko David
+uid: xbenko12
+mail: xbenko12@stud.fit.vutbr.cz
+
+# xbenov00
+dn: uid=xbenov00
+cn: Benovic Martin
+uid: xbenov00
+mail: xbenov00@stud.fit.vutbr.cz
+
+# xbenus01
+dn: uid=xbenus01
+cn: Benus Alexej
+uid: xbenus01
+mail: xbenus01@stud.fit.vutbr.cz
+
+# xgencu00
+dn: uid=xgencu00
+cn: Gencur Martin
+uid: xgencu00
+mail: xgencu00@stud.fit.vutbr.cz
+
+# xhenkl00
+dn: uid=xhenkl00
+cn: Henkl Tomas
+uid: xhenkl00
+mail: xhenkl00@stud.fit.vutbr.cz
+
+# xkomen03
+dn: uid=xkomen03
+cn: Komenda Tomas
+uid: xkomen03
+mail: xkomen03@stud.fit.vutbr.cz
+
+# xkuben04
+dn: uid=xkuben04
+cn: Kubena Petr
+uid: xkuben04
+mail: xkuben04@stud.fit.vutbr.cz
+
+# xlencs00
+dn: uid=xlencs00
+cn: Lencses Samuel
+uid: xlencs00
+mail: xlencs00@stud.fit.vutbr.cz
+
+# xlengy00
+dn: uid=xlengy00
+cn: Lengyel Kristian
+uid: xlengy00
+mail: xlengy00@stud.fit.vutbr.cz
+
+# xloren18
+dn: uid=xloren18
+cn: Lorenc Filip
+uid: xloren18
+mail: xloren18@stud.fit.vutbr.cz
+
+# xmensi11
+dn: uid=xmensi11
+cn: Mensik Tomas
+uid: xmensi11
+mail: xmensi11@stud.fit.vutbr.cz
+
+# xnenut01
+dn: uid=xnenut01
+cn: Nenutil Patrik
+uid: xnenut01
+mail: xnenut01@stud.fit.vutbr.cz
+
+# xpenko00
+dn: uid=xpenko00
+cn: Penkova Alina
+uid: xpenko00
+mail: xpenko00@stud.fit.vutbr.cz
+
+# xpentr00
+dn: uid=xpentr00
+cn: Pentrak Martin
+uid: xpentr00
+mail: xpentr00@stud.fit.vutbr.cz
+
+# xpimen00
+dn: uid=xpimen00
+cn: Pimenov Danylo
+uid: xpimen00
+mail: xpimen00@stud.fit.vutbr.cz
+
+# xsenes00
+dn: uid=xsenes00
+cn: Senesi Martin
+uid: xsenes00
+mail: xsenes00@stud.fit.vutbr.cz
+
+# xsklen14
+dn: uid=xsklen14
+cn: Sklenar David
+uid: xsklen14
+mail: xsklen14@stud.fit.vutbr

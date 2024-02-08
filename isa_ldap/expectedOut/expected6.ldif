@@ -1,0 +1,488 @@
+# extended LDIF
+#
+# LDAPv3
+# base <> (default) with scope subtree
+# filter: (|(cn=*stepan)(cn=p*))
+# requesting: ALL
+#
+
+# xbarta50
+dn: uid=xbarta50
+cn: Barta Stepan
+uid: xbarta50
+mail: xbarta50@stud.fit.vutbr.cz
+
+# xbilek25
+dn: uid=xbilek25
+cn: Bilek Stepan
+uid: xbilek25
+mail: xbilek25@stud.fit.vutbr.cz
+
+# xczajk01
+dn: uid=xczajk01
+cn: Czajkowski Stepan
+uid: xczajk01
+mail: xczajk01@stud.fit.vutbr.cz
+
+# xnekul04
+dn: uid=xnekul04
+cn: Nekula Stepan
+uid: xnekul04
+mail: xnekul04@stud.fit.vutbr.cz
+
+# xpacev00
+dn: uid=xpacev00
+cn: Pacev Martin
+uid: xpacev00
+mail: xpacev00@stud.fit.vutbr.cz
+
+# xpacht00
+dn: uid=xpacht00
+cn: Pachta Vaclav
+uid: xpacht00
+mail: xpacht00@stud.fit.vutbr.cz
+
+# xpafco00
+dn: uid=xpafco00
+cn: Pafco Tomas
+uid: xpafco00
+mail: xpafco00@stud.fit.vutbr.cz
+
+# xpanac00
+dn: uid=xpanac00
+cn: Panacek Lukas
+uid: xpanac00
+mail: xpanac00@stud.fit.vutbr.cz
+
+# xpapad11
+dn: uid=xpapad11
+cn: Pap Adam
+uid: xpapad11
+mail: xpapad11@stud.fit.vutbr.cz
+
+# xparil05
+dn: uid=xparil05
+cn: Parilova Marie
+uid: xparil05
+mail: xparil05@stud.fit.vutbr.cz
+
+# xpariz04
+dn: uid=xpariz04
+cn: Parizek Martin
+uid: xpariz04
+mail: xpariz04@stud.fit.vutbr.cz
+
+# xpasyn00
+dn: uid=xpasyn00
+cn: Pasynkov Nikita
+uid: xpasyn00
+mail: xpasyn00@stud.fit.vutbr.cz
+
+# xpauli08
+dn: uid=xpauli08
+cn: Paulik Krystof
+uid: xpauli08
+mail: xpauli08@stud.fit.vutbr.cz
+
+# xpavel16
+dn: uid=xpavel16
+cn: Pavelka Jan
+uid: xpavel16
+mail: xpavel16@stud.fit.vutbr.cz
+
+# xpavel41
+dn: uid=xpavel41
+cn: Pavelka Vojtech
+uid: xpavel41
+mail: xpavel41@stud.fit.vutbr.cz
+
+# xpavli95
+dn: uid=xpavli95
+cn: Pavlicek Jan
+uid: xpavli95
+mail: xpavli95@stud.fit.vutbr.cz
+
+# xpavlu04
+dn: uid=xpavlu04
+cn: Pavlu Martin
+uid: xpavlu04
+mail: xpavlu04@stud.fit.vutbr.cz
+
+# xpavlu03
+dn: uid=xpavlu03
+cn: Pavlu Roman
+uid: xpavlu03
+mail: xpavlu03@stud.fit.vutbr.cz
+
+# xpecha14
+dn: uid=xpecha14
+cn: Pechan Marek
+uid: xpecha14
+mail: xpecha14@stud.fit.vutbr.cz
+
+# xpejch08
+dn: uid=xpejch08
+cn: Pejchar Stepan
+uid: xpejch08
+mail: xpejch08@stud.fit.vutbr.cz
+
+# xpekar04
+dn: uid=xpekar04
+cn: Pekar Daniel
+uid: xpekar04
+mail: xpekar04@stud.fit.vutbr.cz
+
+# xpekar19
+dn: uid=xpekar19
+cn: Pekarek Jakub
+uid: xpekar19
+mail: xpekar19@stud.fit.vutbr.cz
+
+# xpekni01
+dn: uid=xpekni01
+cn: Peknik Stefan
+uid: xpekni01
+mail: xpekni01@stud.fit.vutbr.cz
+
+# xpekny00
+dn: uid=xpekny00
+cn: Pekny Adam
+uid: xpekny00
+mail: xpekny00@stud.fit.vutbr.cz
+
+# xpenas02
+dn: uid=xpenas02
+cn: Penas Dalibor
+uid: xpenas02
+mail: xpenas02@stud.fit.vutbr.cz
+
+# xpenko00
+dn: uid=xpenko00
+cn: Penkova Alina
+uid: xpenko00
+mail: xpenko00@stud.fit.vutbr.cz
+
+# xpentr00
+dn: uid=xpentr00
+cn: Pentrak Martin
+uid: xpentr00
+mail: xpentr00@stud.fit.vutbr.cz
+
+# xperni14
+dn: uid=xperni14
+cn: Pernica Lukas
+uid: xperni14
+mail: xperni14@stud.fit.vutbr.cz
+
+# xpesak01
+dn: uid=xpesak01
+cn: Pesak Jiri
+uid: xpesak01
+mail: xpesak01@stud.fit.vutbr.cz
+
+# xpetri25
+dn: uid=xpetri25
+cn: Petrik Dominik
+uid: xpetri25
+mail: xpetri25@stud.fit.vutbr.cz
+
+# xpetri11
+dn: uid=xpetri11
+cn: Petrik Patrik
+uid: xpetri11
+mail: xpetri11@stud.fit.vutbr.cz
+
+# xpetri10
+dn: uid=xpetri10
+cn: Petrik Pavel
+uid: xpetri10
+mail: xpetri10@stud.fit.vutbr.cz
+
+# xpetro27
+dn: uid=xpetro27
+cn: Petrovskyi Denys
+uid: xpetro27
+mail: xpetro27@stud.fit.vutbr.cz
+
+# xpetrz10
+dn: uid=xpetrz10
+cn: Petrzelka Jiri
+uid: xpetrz10
+mail: xpetrz10@stud.fit.vutbr.cz
+
+# xpimen00
+dn: uid=xpimen00
+cn: Pimenov Danylo
+uid: xpimen00
+mail: xpimen00@stud.fit.vutbr.cz
+
+# xpinte01
+dn: uid=xpinte01
+cn: Pinter Jan
+uid: xpinte01
+mail: xpinte01@stud.fit.vutbr.cz
+
+# xpiova00
+dn: uid=xpiova00
+cn: Piovarciova Zuzana
+uid: xpiova00
+mail: xpiova00@stud.fit.vutbr.cz
+
+# xpiroh02
+dn: uid=xpiroh02
+cn: Pirohova Karolina
+uid: xpiroh02
+mail: xpiroh02@stud.fit.vutbr.cz
+
+# xpiwko00
+dn: uid=xpiwko00
+cn: Piwko Karel
+uid: xpiwko00
+mail: xpiwko00@stud.fit.vutbr.cz
+
+# xplach10
+dn: uid=xplach10
+cn: Plachy Ivan
+uid: xplach10
+mail: xplach10@stud.fit.vutbr.cz
+
+# xplhak01
+dn: uid=xplhak01
+cn: Plhak Marek
+uid: xplhak01
+mail: xplhak01@stud.fit.vutbr.cz
+
+# xplhal00
+dn: uid=xplhal00
+cn: Plhal Richard
+uid: xplhal00
+mail: xplhal00@stud.fit.vutbr.cz
+
+# xpodro01
+dn: uid=xpodro01
+cn: Podrouzek Jan
+uid: xpodro01
+mail: xpodro01@stud.fit.vutbr.cz
+
+# xpodse01
+dn: uid=xpodse01
+cn: Podsednik Lukas
+uid: xpodse01
+mail: xpodse01@stud.fit.vutbr.cz
+
+# xpodst00
+dn: uid=xpodst00
+cn: Podstavka Adam
+uid: xpodst00
+mail: xpodst00@stud.fit.vutbr.cz
+
+# xpolak39
+dn: uid=xpolak39
+cn: Polak Gregor
+uid: xpolak39
+mail: xpolak39@stud.fit.vutbr.cz
+
+# xpoliv07
+dn: uid=xpoliv07
+cn: Polivka Michael
+uid: xpoliv07
+mail: xpoliv07@stud.fit.vutbr.cz
+
+# xpolok00
+dn: uid=xpolok00
+cn: Polok Lukas
+uid: xpolok00
+mail: xpolok00@stud.fit.vutbr.cz
+
+# xpolom00
+dn: uid=xpolom00
+cn: Polomski Filip
+uid: xpolom00
+mail: xpolom00@stud.fit.vutbr.cz
+
+# xpolon00
+dn: uid=xpolon00
+cn: Poloni Pavol
+uid: xpolon00
+mail: xpolon00@stud.fit.vutbr.cz
+
+# xpomik01
+dn: uid=xpomik01
+cn: Pomikalek Jakub
+uid: xpomik01
+mail: xpomik01@stud.fit.vutbr.cz
+
+# xpomsa00
+dn: uid=xpomsa00
+cn: Pomsar Jakub
+uid: xpomsa00
+mail: xpomsa00@stud.fit.vutbr.cz
+
+# xponec01
+dn: uid=xponec01
+cn: Ponechal Adrian
+uid: xponec01
+mail: xponec01@stud.fit.vutbr.cz
+
+# xpopek04
+dn: uid=xpopek04
+cn: Popek Milos
+uid: xpopek04
+mail: xpopek04@stud.fit.vutbr.cz
+
+# xporcj01
+dn: uid=xporcj01
+cn: Porc Jiri
+uid: xporcj01
+mail: xporcj01@stud.fit.vutbr.cz
+
+# xposch00
+dn: uid=xposch00
+cn: Poschl Martin
+uid: xposch00
+mail: xposch00@stud.fit.vutbr.cz
+
+# xpospe01
+dn: uid=xpospe01
+cn: Pospech Ladislav
+uid: xpospe01
+mail: xpospe01@stud.fit.vutbr.cz
+
+# xpospi45
+dn: uid=xpospi45
+cn: Pospichal Petr
+uid: xpospi45
+mail: xpospi45@stud.fit.vutbr.cz
+
+# xpospi44
+dn: uid=xpospi44
+cn: Pospisil Jan
+uid: xpospi44
+mail: xpospi44@stud.fit.vutbr.cz
+
+# xpospi42
+dn: uid=xpospi42
+cn: Pospisil Milan
+uid: xpospi42
+mail: xpospi42@stud.fit.vutbr.cz
+
+# xpospi0k
+dn: uid=xpospi0k
+cn: Pospisil Zbynek
+uid: xpospi0k
+mail: xpospi0k@stud.fit.vutbr.cz
+
+# xpotan00
+dn: uid=xpotan00
+cn: Potancok Patrik
+uid: xpotan00
+mail: xpotan00@stud.fit.vutbr.cz
+
+# xpotoc08
+dn: uid=xpotoc08
+cn: Potocek Ondrej
+uid: xpotoc08
+mail: xpotoc08@stud.fit.vutbr.cz
+
+# xpotuc08
+dn: uid=xpotuc08
+cn: Potucek Tomas
+uid: xpotuc08
+mail: xpotuc08@stud.fit.vutbr.cz
+
+# xprcha07
+dn: uid=xprcha07
+cn: Prchal Josef
+uid: xprcha07
+mail: xprcha07@stud.fit.vutbr.cz
+
+# xprich09
+dn: uid=xprich09
+cn: Prichystal Filip
+uid: xprich09
+mail: xprich09@stud.fit.vutbr.cz
+
+# xproch0q
+dn: uid=xproch0q
+cn: Prochazka David
+uid: xproch0q
+mail: xproch0q@stud.fit.vutbr.cz
+
+# xproch50
+dn: uid=xproch50
+cn: Prochazka Robin
+uid: xproch50
+mail: xproch50@stud.fit.vutbr.cz
+
+# xproko47
+dn: uid=xproko47
+cn: Prokop Jiri
+uid: xproko47
+mail: xproko47@stud.fit.vutbr.cz
+
+# xproko43
+dn: uid=xproko43
+cn: Prokop Ondrej
+uid: xproko43
+mail: xproko43@stud.fit.vutbr.cz
+
+# xprycj00
+dn: uid=xprycj00
+cn: Pryc Jan
+uid: xprycj00
+mail: xprycj00@stud.fit.vutbr.cz
+
+# xprymu01
+dn: uid=xprymu01
+cn: Prymus Marek
+uid: xprymu01
+mail: xprymu01@stud.fit.vutbr.cz
+
+# xptacn01
+dn: uid=xptacn01
+cn: Ptacnik Lukas
+uid: xptacn01
+mail: xptacn01@stud.fit.vutbr.cz
+
+# xptase00
+dn: uid=xptase00
+cn: Ptasek Martin
+uid: xptase00
+mail: xptase00@stud.fit.vutbr.cz
+
+# xpuchn02
+dn: uid=xpuchn02
+cn: Puchnar Ivo
+uid: xpuchn02
+mail: xpuchn02@stud.fit.vutbr.cz
+
+# xpumpr00
+dn: uid=xpumpr00
+cn: Pumprla Ondrej
+uid: xpumpr00
+mail: xpumpr00@stud.fit.vutbr.cz
+
+# xpyczl00
+dn: uid=xpyczl00
+cn: Pycz Lukasz
+uid: xpyczl00
+mail: xpyczl00@stud.fit.vutbr.cz
+
+# xrosas00
+dn: uid=xrosas00
+cn: Rosa Stepan
+uid: xrosas00
+mail: xrosas00@stud.fit.vutbr.cz
+
+# xvondr27
+dn: uid=xvondr27
+cn: Vondracek Stepan
+uid: xvondr27
+mail: xvondr27@stud.fit.vutbr.cz
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 80
+# numEntries: 79

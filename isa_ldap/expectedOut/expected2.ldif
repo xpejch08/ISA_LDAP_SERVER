@@ -1,0 +1,20 @@
+# extended LDIF
+#
+# LDAPv3
+# base <> (default) with scope subtree
+# filter: (uid=xpejch08)
+# requesting: ALL
+#
+
+# xpejch08
+dn: uid=xpejch08
+cn: Pejchar Stepan
+uid: xpejch08
+mail: xpejch08@stud.fit.vutbr.cz
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 2
+# numEntries: 1

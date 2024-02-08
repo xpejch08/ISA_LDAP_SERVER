@@ -1,0 +1,13 @@
+# extended LDIF
+#
+# LDAPv3
+# base <> (default) with scope subtree
+# filter: userid=aaaaaaaa08
+# requesting: ALL
+#
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 1
